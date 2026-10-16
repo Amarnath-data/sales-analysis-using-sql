@@ -80,3 +80,9 @@ This project demonstrates how SQL can transform raw sales records into useful bu
 ## Author
 
 Add your name and GitHub profile here.
+
+
+## Project Screenshots
+
+### Sales KPIs
+![Sales KPIs](screenshots/sales-kpis.png)
