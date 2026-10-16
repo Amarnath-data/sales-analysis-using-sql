@@ -86,3 +86,13 @@ Add your name and GitHub profile here.
 
 ### Sales KPIs
 ![Sales KPIs](screenshots/sales-kpis.png)
+
+
+### Yearly Sales Analysis
+![Yearly Sales](screenshots/yearly-sales.png)
+
+### Regional Performance
+![Regional Analysis](screenshots/regional-analysis.png)
+
+### Loss-Making Products
+![Loss Products](screenshots/loss-products.png)
