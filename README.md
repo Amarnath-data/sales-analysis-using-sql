@@ -77,10 +77,6 @@ sales-analysis-using-sql/
 
 This project demonstrates how SQL can transform raw sales records into useful business insights for sales performance monitoring and decision-making.
 
-## Author
-
-Add your name and GitHub profile here.
-
 
 ## Project Screenshots
 
